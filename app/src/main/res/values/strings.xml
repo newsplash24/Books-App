@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Books App</string>
+    <string name="books_url">http://m0hamed.xtgem.com/books.json</string>
+</resources>
